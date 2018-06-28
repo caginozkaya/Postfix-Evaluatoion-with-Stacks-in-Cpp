@@ -1,9 +1,9 @@
 # Postix-evaluator-in-Cpp
 + (additon)  
 - (subtraction)  
-* (multiplication)  
-/ (division)   
-^ (exponentiation)  
+* (multiplication)
+/ (division)
+^ (exponentiation)
 @ (unary minus)
 
 Sample Outputs: 
