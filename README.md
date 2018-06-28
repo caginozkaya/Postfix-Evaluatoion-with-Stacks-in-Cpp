@@ -6,4 +6,4 @@ Enter a postfix expression: 4 5 * 6 3 @ + / 8 + Result = 14.6667
  
 (@ means unary minus)
 
-<a href="https://ibb.co/gPCYS8"><img src="https://preview.ibb.co/dfSduo/postfix.png" alt="postfix" border="0"></a>
+<a href="https://imgbb.com/"><img src="https://image.ibb.co/kHAOuo/postfix.png" alt="postfix" border="0"></a><br /><a target='_blank' href='https://deleteacc.com/tumblr'>how to deactivate tumblr</a><br />
